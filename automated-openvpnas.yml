@@ -199,7 +199,7 @@ Mappings:
       BYOLAMI: ami-fca0de93
     # EU (London)
     eu-west-2:
-      BYOLAMI: ami-022f3966   
+      BYOLAMI: ami-0bb84df8b7f1eea55   
     # EU (Ireland)
     eu-west-1:
       BYOLAMI: ami-015fbb78   
