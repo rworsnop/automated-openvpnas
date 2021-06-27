@@ -1,10 +1,9 @@
 After installing:
 Go to admin/Network settings and set host name to elastic IP address
 Then User Permission; Allow auto-login for the admin user
+Go to VPN Settings. Have clients use specific DNS servers. Enter 8.8.8.8, 8.8.4.4
 Log out
 Go to root URL. Log in with admin account
 Download auto-login profile
 
 Use open-source openvpn client
-
-https://www.youtube.com/watch?v=_P_gAwHLIwc&t=743s
